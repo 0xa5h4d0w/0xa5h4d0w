@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **0xa5h4d0w/0xa5h4d0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+┌──(0xa5h4d0w㉿github)-[~]    
+└─# **whoami**    
+**Amitsingh Thakur**   
+*Vulnerability and Threat Management Lead | Ethical Hacker | HTB Player | Cyber Security Enthusiast*
+
+
+
