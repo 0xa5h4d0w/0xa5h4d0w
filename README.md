@@ -2,11 +2,16 @@
 
 <h3 align="left">┌──(0xa5h4d0w㉿github)-[~]    </h3>
 <h3 align="left">└─# whoami    </h3>
-<h3 alige="left">Amitsingh Thakur</h3>
-
-*Vulnerability and Threat Management Lead | Ethical Hacker | HTB Player | Cyber Security Enthusiast*
+<h3 alige="left"><a href="https://ae.linkedin.com/in/amitsingh-thakur">Amitsingh Thakur</a></h3>
 
 
+**Vulnerability and Threat Management Lead**
+
+
+
+*Ethical Hacker | HTB Player | Cyber Security Enthusiast*
+           
+         
 
 
 <h3 align="left">Connect with me:</h3>
