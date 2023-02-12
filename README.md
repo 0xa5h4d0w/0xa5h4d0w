@@ -19,6 +19,7 @@
 <a href="https://twitter.com/0xa5h4d0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xa5h4d0w" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amitsingh-thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a5h4d0w" height="30" width="40" /></a>
 <a href="https://www.instagram.com/0xa5h4d0w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xa5h4d0w" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/436590" target="blank"><img align="center" src="https://github.com/0xa5h4d0w/ashadow/blob/main/12772535-middle.png" alt="0xa5h4d0w" height="40" width="40" /></a>
 </p>
 
 
